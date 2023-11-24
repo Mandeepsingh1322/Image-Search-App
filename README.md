@@ -4,7 +4,7 @@
 
 The Image Search App is a web application that allows users to search for images using keywords. It utilizes the Unsplash API to fetch and display high-quality images based on user queries. Users can also download images they like directly from the app.
 
- (https://app.gemoo.com/share/image-annotation/586603609793019904?codeId=P5GEyr2xqKXAo&origin=imageurlgenerator&card=586603607259660288)
+ ![App Overview](https://app.gemoo.com/share/image-annotation/586603609793019904?codeId=P5GEyr2xqKXAo&origin=imageurlgenerator&card=586603607259660288)
 ## Features
 
 - **Search Images**: Enter keywords in the search bar to find relevant images.
