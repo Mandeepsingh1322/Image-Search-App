@@ -1,10 +1,16 @@
 # Image Search App
 
+![ISA](https://github.com/Mandeepsingh1322/Image-Search-App/assets/142074586/be4bb6ca-f178-43de-9389-6a07b4892288)
+![ISA 1](https://github.com/Mandeepsingh1322/Image-Search-App/assets/142074586/bf6a73ad-c46f-4420-8ebc-94c2db6a8d21)
+
 ## Overview
 
 The Image Search App is a web application that allows users to search for images using keywords. It utilizes the Unsplash API to fetch and display high-quality images based on user queries. Users can also download images they like directly from the app.
-![image](https://github.com/Mandeepsingh1322/Image-Search-App/assets/142074586/70d64c5b-77c1-4779-a9f6-04b99a3221ab)
 
+- **Scan and Check**                   
+ ![image](https://github.com/Mandeepsingh1322/Image-Search-App/assets/142074586/70d64c5b-77c1-4779-a9f6-04b99a3221ab)
+
+- [**Click and Check**](https://imagesearchapp-289d71.netlify.app/)
 ## Features
 
 - **Search Images**: Enter keywords in the search bar to find relevant images.
