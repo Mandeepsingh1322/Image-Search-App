@@ -3,6 +3,7 @@
 ## Overview
 
 The Image Search App is a web application that allows users to search for images using keywords. It utilizes the Unsplash API to fetch and display high-quality images based on user queries. Users can also download images they like directly from the app.
+![image](https://github.com/Mandeepsingh1322/Image-Search-App/assets/142074586/70d64c5b-77c1-4779-a9f6-04b99a3221ab)
 
 ## Features
 
